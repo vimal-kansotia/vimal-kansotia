@@ -193,15 +193,75 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Significant Certificates
 
 <div align="center">
 
-✅ **AWS Academy Graduate** — Data Engineering Specialization  
-✅ **AWS Certified Cloud Practitioner** — Cloud Infrastructure & Services  
-✅ **SAP Analytics Cloud Certification** — Advanced Analytics & BI  
+### ⭐ My Top 3 Professional Certifications
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/vimal-kansotia/vimal-kansotia/main/certificate_aws.jpg" width="100%" alt="AWS Academy Graduate - Data Engineering">
+      <br/><strong>AWS Academy Graduate</strong><br/>Data Engineering<br/>40 Hours | Jun 2026
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/vimal-kansotia/vimal-kansotia/main/certificate_bcg.jpg" width="100%" alt="BCG Data Science Job Simulation">
+      <br/><strong>BCG Data Science</strong><br/>Job Simulation<br/>April 2026
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/vimal-kansotia/vimal-kansotia/main/certificate_sap.jpg" width="100%" alt="SAP Analytics Cloud">
+      <br/><strong>SAP Analytics Cloud</strong><br/>Exploring - Beginner Level<br/>Jan 2026
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/6e4222df-0615-4f25-9bdc-3eb909f839c2">
+        <img src="https://img.shields.io/badge/View%20Credential-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="View AWS Credential">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.theforage.com">
+        <img src="https://img.shields.io/badge/View%20Credential-004B87?style=for-the-badge&logo=bcg&logoColor=white" alt="View BCG Credential">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://badger.learning.sap.com/verify/xydyd-kileb-befut-pikic-pudoc">
+        <img src="https://img.shields.io/badge/View%20Credential-0CCDE7?style=for-the-badge&logo=sap&logoColor=white" alt="View SAP Credential">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+</div>
+
+## 🏆 All Certifications & Achievements
+
+<div align="center">
+
+### 🌟 Professional Certifications
+
+[![AWS Academy Graduate](https://img.shields.io/badge/AWS%20Academy%20Graduate-Data%20Engineering-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/6e4222df-0615-4f25-9bdc-3eb909f839c2)
+
+[![SAP Analytics Cloud](https://img.shields.io/badge/SAP%20Analytics%20Cloud-Enterprise%20Analytics-0CCDE7?style=for-the-badge&logo=sap&logoColor=white)](https://badger.learning.sap.com/verify/xydyd-kileb-befut-pikic-pudoc)
+
+[![BCG Data Science](https://img.shields.io/badge/BCG-Data%20Science%20Simulation-001D3D?style=for-the-badge)](https://www.theforage.com)
+
+---
+
+### 📚 Educational & Additional Credentials
+
+✅ **Master's in Big Data Analytics** — St. Xavier's College, Mumbai (CGPA: 8.9)  
 ✅ **Machine Learning Specialization** — Comprehensive ML & AI Training  
-✅ **Master's in Big Data Analytics** — St. Xavier's College, Mumbai (CGPA: 8.9)
+✅ **Anthropic Certifications** — Subagents, Model Context Protocol, Claude Code in Action  
+✅ **SAP BW/4HANA** — On-Premise Data Warehouse Architecture  
+✅ **J.P. Morgan Quantitative Research** — Job Simulation  
+✅ **Deloitte Data Analytics** — Job Simulation  
+✅ **Adobe Creative Suite** — Generative AI & Design Fundamentals  
+✅ **Core Python** — Advanced Programming  
+✅ **MS Office 2019** — Excel, Access & Outlook Specialization
 
 </div>
 

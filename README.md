@@ -1,15 +1,43 @@
+```markdown
 <div align="center">
 
 ![Coding GIF](https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-# 👋 Hi, I'm Vimal Kansotia
+# 👨‍💻 Vimal Kansotia
 
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Analyst;AI+Engineer;Data+Scientist;Data+Engineer;ERP+Product+Engineer)
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=3500&pause=1200&color=00FF00&center=true&vCenter=true&width=700&lines=Data+Analyst;AI+Engineer;Data+Scientist;Data+Engineer;ERP+Product+Engineer)
 
-<div>
+---
 
-**Master's in Big Data Analytics** • St. Xavier's College, Mumbai (CGPA: 8.9)  
-📍 Mumbai, India | 🔗 [LinkedIn](https://www.linkedin.com/in/vimal-kansotia-586665231) | 🌐 [Portfolio](https://vimalkansotia.netlify.app) | 📧 [Email](mailto:your-email@gmail.com)
+## 🎓 Education & Credentials
+
+
+```
+
+┌─ MASTER'S DEGREE (M.Sc.)
+│  ├─ Big Data Analytics
+│  ├─ St. Xavier's College, Mumbai
+│  └─ CGPA: 8.9/10
+│
+└─ BACHELOR'S DEGREE (B.Sc.)
+├─ Mathematics
+├─ B.K. Birla College, Mumbai
+└─ CGPA: 8.9/10
+
+```
+
+---
+
+## 🌐 Get In Touch
+
+<div align="center">
+
+**Based in:** 📍 Mumbai, India
+
+**Connect with me:**
+- [🔗 LinkedIn Profile](https://www.linkedin.com/in/vimal-kansotia-586665231) — Professional Network
+- [🌐 Portfolio Website](https://vimalkansotia.netlify.app/) — View My Projects
+- [📧 Email: kansotiavimal4@gmail.com](mailto:kansotiavimal4@gmail.com) — Let's Collaborate
 
 </div>
 
@@ -238,7 +266,7 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 
 ### 📚 Educational & Additional Credentials
 
-✅ **Master's in Big Data Analytics** — St. Xavier's College, Mumbai (CGPA: 8.9)  
+✅ **Master's in Big Data Analytics** — St. Xavier's College, Mumbai[cite: 1] (CGPA: 8.9)  
 ✅ **Machine Learning Specialization** — Comprehensive ML & AI Training  
 ✅ **Anthropic Certifications** — Subagents, Model Context Protocol, Claude Code in Action  
 ✅ **SAP BW/4HANA** — On-Premise Data Warehouse Architecture  
@@ -285,3 +313,5 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 **Last updated: August 2026**
 
 </div>
+
+```

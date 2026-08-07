@@ -9,7 +9,7 @@
 <div>
 
 **Master's in Big Data Analytics** • St. Xavier's College, Mumbai
-📍 Mumbai, India | 🔗 [LinkedIn](https://www.linkedin.com/in/vimal-kansotia-586665231) | 🌐 [Portfolio](https://vimalkansotia.netlify.app) | 📧 [Email](mailto:your-email@gmail.com)
+📍 Mumbai, India | 🔗 [LinkedIn](https://www.linkedin.com/in/vimal-kansotia-586665231) | 🌐 [Portfolio](https://vimalkansotia.netlify.app) | 📧 [Email](mailto:kansotiavimal4@gmail.com)
 
 </div>
 

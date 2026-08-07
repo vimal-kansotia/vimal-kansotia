@@ -105,7 +105,6 @@ Currently exploring AI agent use cases, advanced data architectures, and postgra
 - ✅ **AWS Certified Cloud Practitioner** — Cloud infrastructure & services
 - ✅ **SAP Analytics Cloud Certification** — Advanced analytics & business intelligence
 - ✅ **Complete Machine Learning Specialization** — Andrew Ng's Coursera program
-- ✅ **Big Data Analytics Master's Program** — St. Xavier's College, Mumbai (CGPA: 8.9)
 
 ---
 

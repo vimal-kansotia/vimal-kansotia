@@ -199,45 +199,30 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 
 ### ⭐ My Top 3 Professional Certifications
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/vimal-kansotia/vimal-kansotia/main/certificate_aws.jpg" width="100%" alt="AWS Academy Graduate - Data Engineering">
-      <br/><strong>AWS Academy Graduate</strong><br/>Data Engineering<br/>40 Hours | Jun 2026
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/vimal-kansotia/vimal-kansotia/main/certificate_bcg.jpg" width="100%" alt="BCG Data Science Job Simulation">
-      <br/><strong>BCG Data Science</strong><br/>Job Simulation<br/>April 2026
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/vimal-kansotia/vimal-kansotia/main/certificate_sap.jpg" width="100%" alt="SAP Analytics Cloud">
-      <br/><strong>SAP Analytics Cloud</strong><br/>Exploring - Beginner Level<br/>Jan 2026
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.credly.com/badges/6e4222df-0615-4f25-9bdc-3eb909f839c2">
-        <img src="https://img.shields.io/badge/View%20Credential-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="View AWS Credential">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.theforage.com">
-        <img src="https://img.shields.io/badge/View%20Credential-004B87?style=for-the-badge&logo=bcg&logoColor=white" alt="View BCG Credential">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://badger.learning.sap.com/verify/xydyd-kileb-befut-pikic-pudoc">
-        <img src="https://img.shields.io/badge/View%20Credential-0CCDE7?style=for-the-badge&logo=sap&logoColor=white" alt="View SAP Credential">
-      </a>
-    </td>
-  </tr>
-</table>
+#### AWS Academy Graduate - Data Engineering
+![AWS Academy Graduate](https://kommodo.ai/i/pPjrxWiNYsJ7NPwsmPHY)
+**40 Hours | Issued: Jun 2026**  
+[View Credential](https://www.credly.com/badges/6e4222df-0615-4f25-9bdc-3eb909f839c2)
 
 ---
 
+#### BCG Data Science Job Simulation
+![BCG Data Science](https://kommodo.ai/i/bJkJVQlo42XYvpSGgozB)
+**Job Simulation | Issued: April 2026**  
+[View Credential](https://www.theforage.com)
+
+---
+
+#### SAP Analytics Cloud - Exploring
+![SAP Analytics Cloud](https://kommodo.ai/i/buWjmnWLzEYLT9l4LfUz)
+**Beginner Level | Issued: Jan 2026**  
+[View Credential](https://badger.learning.sap.com/verify/xydyd-kileb-befut-pikic-pudoc)
+
 </div>
 
-## 🏆 All Certifications & Achievements
+---
+
+## 📚 All Certifications & Achievements
 
 <div align="center">
 
@@ -262,18 +247,6 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 ✅ **Adobe Creative Suite** — Generative AI & Design Fundamentals  
 ✅ **Core Python** — Advanced Programming  
 ✅ **MS Office 2019** — Excel, Access & Outlook Specialization
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimal-kansotia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimal-kansotia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 

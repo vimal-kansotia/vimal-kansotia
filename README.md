@@ -1,6 +1,6 @@
 <div align="center">
 
-![Coding GIF]((https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif))
+![Coding GIF](https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 # 👋 Hi, I'm Vimal Kansotia
 
@@ -201,6 +201,7 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 ✅ **AWS Certified Cloud Practitioner** — Cloud Infrastructure & Services  
 ✅ **SAP Analytics Cloud Certification** — Advanced Analytics & BI  
 ✅ **Machine Learning Specialization** — Comprehensive ML & AI Training  
+✅ **Master's in Big Data Analytics** — St. Xavier's College, Mumbai (CGPA: 8.9)
 
 </div>
 

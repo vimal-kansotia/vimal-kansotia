@@ -200,21 +200,21 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 ### ⭐ My Top 3 Professional Certifications
 
 #### AWS Academy Graduate - Data Engineering
-![AWS Academy Graduate](https://kommodo.ai/i/pPjrxWiNYsJ7NPwsmPHY)
+![AWS Academy Graduate](https://plain-apac-prod-public.komododecks.com/202608/07/pPjrxWiNYsJ7NPwsmPHY/image.jpg)
 **40 Hours | Issued: Jun 2026**  
 [View Credential](https://www.credly.com/badges/6e4222df-0615-4f25-9bdc-3eb909f839c2)
 
 ---
 
 #### BCG Data Science Job Simulation
-![BCG Data Science](https://kommodo.ai/i/bJkJVQlo42XYvpSGgozB)
+![BCG Data Science](https://plain-apac-prod-public.komododecks.com/202608/07/bJkJVQlo42XYvpSGgozB/image.jpg)
 **Job Simulation | Issued: April 2026**  
 [View Credential](https://www.theforage.com)
 
 ---
 
 #### SAP Analytics Cloud - Exploring
-![SAP Analytics Cloud](https://kommodo.ai/i/buWjmnWLzEYLT9l4LfUz)
+![SAP Analytics Cloud](https://plain-apac-prod-public.komododecks.com/202608/07/buWjmnWLzEYLT9l4LfUz/image.jpg)
 **Beginner Level | Issued: Jan 2026**  
 [View Credential](https://badger.learning.sap.com/verify/xydyd-kileb-befut-pikic-pudoc)
 

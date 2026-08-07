@@ -1,6 +1,6 @@
 <div align="center">
 
-![Coding GIF]((https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn))
+![Coding GIF]((https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif))
 
 # 👋 Hi, I'm Vimal Kansotia
 

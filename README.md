@@ -8,7 +8,7 @@
 
 <div>
 
-**Master's in Big Data Analytics** • St. Xavier's College, Mumbai (CGPA: 8.9)  
+**Master's in Big Data Analytics** • St. Xavier's College, Mumbai
 📍 Mumbai, India | 🔗 [LinkedIn](https://www.linkedin.com/in/vimal-kansotia-586665231) | 🌐 [Portfolio](https://vimalkansotia.netlify.app) | 📧 [Email](mailto:your-email@gmail.com)
 
 </div>
@@ -31,7 +31,6 @@ I transform complex datasets into strategic insights and build intelligent syste
 **Currently Exploring:**
 - Advanced AI/ML applications in enterprise systems
 - Real-time data processing architectures
-- Postgraduate opportunities in Public Policy & International Relations
 
 ---
 
@@ -238,7 +237,8 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 
 ### 📚 Educational & Additional Credentials
 
-✅ **Master's in Big Data Analytics** — St. Xavier's College, Mumbai (CGPA: 8.9)  
+✅ **Master's in Big Data Analytics** — St. Xavier's College, Mumbai ( Persuing )
+✅ **B.Sc. Mathematics** — B.K. Birla College, Mumbai (CGPA: 8.9)
 ✅ **Machine Learning Specialization** — Comprehensive ML & AI Training  
 ✅ **Anthropic Certifications** — Subagents, Model Context Protocol, Claude Code in Action  
 ✅ **SAP BW/4HANA** — On-Premise Data Warehouse Architecture  

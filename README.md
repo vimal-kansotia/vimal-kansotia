@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Vimal Kansotia
 
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Analyst;AI+Engineer;Data+Scientist;Data+Engineer;ERP+Product+Engineer)
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Analyst;AI+Engineer;Data+Scientist;Data+Engineer;ERP+Product+Engineer)
 
 <div>
 

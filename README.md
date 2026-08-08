@@ -277,6 +277,8 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 
 <div align="center">
 
+![snake gif](https://github.com/vimal-kansotia/vimal-kansotia/blob/output/github-snake-dark.svg)
+
 ### **"Transform data into insights. Build systems that scale. Create impact that matters."**
 
 ![Profile views](https://komarev.com/ghpvc/?username=vimal-kansotia&color=00D9FF)

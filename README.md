@@ -167,7 +167,7 @@ Real-time environmental monitoring system providing continuous pollution trackin
 - 📅 Time-series analysis with hourly and daily trends
 - 🔔 Peak pollution period identification
 - 📈 Seasonal pattern recognition and forecasting
-- 🎨 User-friendly Power BI interface with dynamic visuals
+- 🎨 Power BI interface with dynamic visuals
 
 **Tech Stack:** Power BI • Real-time APIs • SQL • Excel • Python  
 **Skills:** Real-time Data Processing • Time-Series Analysis • API Integration • ETL
@@ -276,6 +276,10 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 ---
 
 <div align="center">
+
+<img src="./assets/section-game.svg" width="280"/>
+
+<br/><br/>
 
 <!-- Pac-Man Contribution Graph -->
 <picture>

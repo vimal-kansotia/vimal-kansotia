@@ -236,8 +236,8 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 
 ### 📚 Educational & Additional Credentials
 
-✅ **Master's in Big Data Analytics** — St. Xavier's College, Mumbai ( Persuing )
-✅ **B.Sc. Mathematics** — B.K. Birla College, Mumbai (CGPA: 8.9)
+✅ **Master's in Big Data Analytics** — St. Xavier's College, Mumbai ( Persuing )  
+✅ **B.Sc. Mathematics** — B.K. Birla College, Mumbai (CGPA: 8.9)  
 ✅ **Machine Learning Specialization** — Comprehensive ML & AI Training  
 ✅ **Anthropic Certifications** — Subagents, Model Context Protocol, Claude Code in Action  
 ✅ **SAP BW/4HANA** — On-Premise Data Warehouse Architecture  
@@ -276,6 +276,19 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 ---
 
 <div align="center">
+
+<!-- Pac-Man Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vimal-kansotia/vimal-kansotia/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vimal-kansotia/vimal-kansotia/output/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/vimal-kansotia/vimal-kansotia/output/pacman-contribution-graph-dark.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<sub>👾 Watch Pac-Man devour my contributions!</sub>
+
+<br/><br/>
 
 ![snake gif](https://github.com/vimal-kansotia/vimal-kansotia/blob/output/github-snake-dark.svg)
 

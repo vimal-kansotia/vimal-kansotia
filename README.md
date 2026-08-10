@@ -187,7 +187,7 @@ Modern, responsive portfolio website showcasing data analytics and ML projects. 
 - 🔗 Project showcase with live links
 
 **Tech Stack:** Next.js • React • Tailwind CSS • Netlify  
-**Live Demo:** [vimalkansotia.netlify.app](https://vimalkansotia.netlify.app)
+**Live Demo:** [vimal-kansotia.vercel.app](https://vimal-kansotia.vercel.app/)
 
 ---
 
